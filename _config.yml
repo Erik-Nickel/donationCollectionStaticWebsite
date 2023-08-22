@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Erik Samuel Nickel, Annette Hohenberger"
+  name             : "Erik Samuel Nickel, <br> Annette Hohenberger"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"Master student: Double degree in Cognitive Science"
   location         : #"University of Osnabrück, University of Trento"
