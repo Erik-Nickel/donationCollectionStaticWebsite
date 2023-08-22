@@ -113,7 +113,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:ernickel@uni-osnbrück.de?subject=ESPP2023 Poster"
+       url: "mailto:ernickel@uni-osnbrück.de?subject=ESPP2023 Poster"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
